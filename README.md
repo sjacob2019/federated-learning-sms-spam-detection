@@ -22,3 +22,4 @@ Since SMOTE doesn't work with the transformer model we are using, we used a Pass
 ## Federated Learning Model Configuration and Training
 Our Federated Learning experiments were done using 5 clients with varying distributions of legitimate and spam messages on each client. Our first cell in the federated learning section equally splits the training data across the 5 clients we are using. It splits the data across the clients such that each client will have the same number of data points with a varying distribution of spam. We used three spam distributions in our experiment: [50%,50%,50%,50%,50%], [0%,0%,50%,100%,100%], [15%,30%,50%,70%,85%]. We repeated this experiment across all datasets, including the original unbalanced dataset and the datasets obtained from each of balancing techniques. 
 
+## Link to our demo video - https://youtu.be/vbGhMupOF9o
