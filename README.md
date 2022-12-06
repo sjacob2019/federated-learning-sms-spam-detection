@@ -1,4 +1,6 @@
 # Federated Learning for SMS Spam Detection
+## CS 6220 - Fall 2022
+### Team 18 - Shaun Jacob, Kumar Abhishek, Andrew Novokshanov, Monish Ramadoss, Jacob Young
 
 ## Dependencies
 Install any necessary dependencies by running the first cell, and the cell right under it imports the necessary packages. 
